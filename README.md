@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="128" alt="S7 OPTI"></p>
+
 # S7 Opti – pobieranie
 
 **[⬇ Pobierz S7Opti.exe](https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti.exe)**
