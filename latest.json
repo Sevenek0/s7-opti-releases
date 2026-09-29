@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti-1.2.4.exe",
-  "notes": "Nowo\u015b\u0107: w Czyszczeniu (Du\u017ce pliki i Duplikaty) opcja \u201eUsu\u0144 trwale (bez Kosza)\u201d. Naprawiono polskie znaki w oknie aktualizacji.",
+  "version": "1.2.5",
+  "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti-1.2.5.exe",
+  "notes": "Wi\u0119cej FPS: 5 nowych ustawie\u0144 w kategorii Gry (wi\u0119cej czasu procesora dla gry, optymalizacje gier w oknie, pe\u0142ny ekran bez optymalizacji, wy\u0142\u0105czenie Power Throttling i izolacji rdzenia VBS). Nowe narz\u0119dzie \u201ePrzyspiesz wybran\u0105 gr\u0119\u201d \u2013 wydajna karta graficzna i wysoki priorytet procesora dla wskazanej gry.",
   "date": "2026-09-29",
-  "size": 667136,
-  "signature": "lloTxFAXusEOGGG6hE0A5fZ21owZdzYqPLtTsvzAACB7UVnrkR4PvSdVFhbwQUr3LuofyrdqzdQeghR1pzXlxA=="
+  "size": 678400,
+  "signature": "89W5AopHmxXl21rZMY3Jwdqa1SAgC1oAryXLWpCvjD3ru71n9+5KmomXK7WgOHMQw0aVvP13aHJJBPYMvrDaFQ=="
 }
