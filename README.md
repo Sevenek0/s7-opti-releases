@@ -15,7 +15,8 @@ Każdą zmianę można cofnąć.
 Do uruchomienia potrzebny jest klucz licencyjny.
 
 To repozytorium zawiera tylko pliki do pobrania:
-- `S7Opti.exe` – najnowsza wersja programu;
+- `S7Opti.exe` – najnowsza wersja programu (link do pobrania);
+- `S7Opti-<wersja>.exe` – kopie z numerem wersji, z których korzystają automatyczne aktualizacje;
 - `latest.json` – informacja o wersji dla automatycznych aktualizacji, podpisana cyfrowo przez wydawcę.
 
 Zainstalowany program sam sprawdza tutaj, czy jest nowsza wersja. Aktualizacja jest instalowana tylko wtedy,

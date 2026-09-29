@@ -1,8 +1,8 @@
 {
   "version": "1.2.3",
-  "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti.exe",
+  "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti-1.2.3.exe",
   "notes": "Nowe logo i kolory S7 OPTI, pewniejsze sprawdzanie aktualizacji (czytelny komunikat, gdy serwer jest niedostępny).",
   "date": "2026-09-29",
   "size": 666112,
-  "signature": "laWywlGniYXwduNhSVQlsexWljm5mX0HnEEN5ChgKlmvachHiTmwfsgM50x7fgAJNoxAYSdokxNF3jF/7gAU1g=="
+  "signature": "Y5Yk9y6tI9GExlR+nLPDltyi93oYCppTTqwNfxRNTramO5C3N5zlUWoCPXi7eLw/3zKzauT2hWV1BZrn8JG2Zw=="
 }
