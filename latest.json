@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti.exe",
-  "notes": "Nowe logo i kolory S7 OPTI, kreator, instalator, ikona w zasobniku, temperatury, sterowniki, usługi, test szybkości, duplikaty.",
+  "notes": "Nowe logo i kolory S7 OPTI, pewniejsze sprawdzanie aktualizacji (czytelny komunikat, gdy serwer jest niedostępny).",
   "date": "2026-09-29",
-  "size": 664064,
-  "signature": "eG4Zpk6bC+zzQckpX1hzblpI8UheTu01bhWfX+A0TihiwIYZr52ynP2AX1SwzqDpjSgi6Xr9MmBhnuroVkkgPQ=="
+  "size": 666112,
+  "signature": "laWywlGniYXwduNhSVQlsexWljm5mX0HnEEN5ChgKlmvachHiTmwfsgM50x7fgAJNoxAYSdokxNF3jF/7gAU1g=="
 }
