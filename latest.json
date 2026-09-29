@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
-  "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti-1.2.5.exe",
-  "notes": "Wi\u0119cej FPS: 5 nowych ustawie\u0144 w kategorii Gry (wi\u0119cej czasu procesora dla gry, optymalizacje gier w oknie, pe\u0142ny ekran bez optymalizacji, wy\u0142\u0105czenie Power Throttling i izolacji rdzenia VBS). Nowe narz\u0119dzie \u201ePrzyspiesz wybran\u0105 gr\u0119\u201d \u2013 wydajna karta graficzna i wysoki priorytet procesora dla wskazanej gry.",
+  "version": "1.3.0",
+  "url": "https://raw.githubusercontent.com/Sevenek0/s7-opti-releases/main/S7Opti-1.3.0.exe",
+  "notes": "Nowa zak\u0142adka Gry: automatyczne wykrywanie gier (Steam, Epic, GOG, EA, Ubisoft, Battle.net, Xbox), przyspieszanie jednym klikni\u0119ciem, automatyczny tryb gry po uruchomieniu gry, wyciszanie powiadomie\u0144 i zamykanie wybranych program\u00f3w, ustawienie najwy\u017cszej cz\u0119stotliwo\u015bci monitora. Nowe ustawienia: mniejszy ping, zasilanie bez u\u015bpie\u0144 USB/PCIe. Czyszczenie: zak\u0142adka \u201eCo zajmuje miejsce\u201d. Autostart: zadania z Harmonogramu. Panel g\u0142\u00f3wny: porady.",
   "date": "2026-09-29",
-  "size": 678400,
-  "signature": "89W5AopHmxXl21rZMY3Jwdqa1SAgC1oAryXLWpCvjD3ru71n9+5KmomXK7WgOHMQw0aVvP13aHJJBPYMvrDaFQ=="
+  "size": 743424,
+  "signature": "y9Y7Hb61f8LswG6Acdj8bw5IrQlhHLHIWfI2Q/1FvRSoY5Bbx89Kr3GJuhmW0yv9hfVzWnqKyqTBZ9Py39z6hg=="
 }
